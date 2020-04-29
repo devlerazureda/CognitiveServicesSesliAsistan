@@ -25,8 +25,8 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-.venv/
 .vscode/
+.gitignore
 MANIFEST
 
 # PyInstaller
@@ -130,3 +130,6 @@ obj
 appsettings.json
 local.settings.json
 .python_packages
+
+#Recording
+Recording.m4a?sp=rl&st=2020-04-12T21:45:32Z&se=2021-09-13T21:45:00Z&sv=2019-02-02&sr=b&sig=5%2FWbqEPbUhiFpeI9%2BrdCDct3k0cETt9VV0%2BL%2FhqjxUc%3D
