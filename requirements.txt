@@ -1,0 +1,4 @@
+azure-functions
+azure-cognitiveservices-speech
+azure-cognitiveservices-language-luis
+requests
